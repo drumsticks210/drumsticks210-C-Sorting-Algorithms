@@ -1,0 +1,17 @@
+============================================================
+ PROGRAMMING ASSIGNMENT 4
+ Name: Quang Tran
+============================================================
+Starting application
+
+---ProxmapSort--- took 0.0019229 seconds to complete
+
+---ShellShort--- took 0.00379004 seconds to complete
+
+---InsertSort--- took 0.283841 seconds to complete
+
+---MergeSort--- took 0.284261 seconds to complete
+
+---BubbleSort--- took 1.04936 seconds to complete
+
+Finished testing all sorting algorithms.
